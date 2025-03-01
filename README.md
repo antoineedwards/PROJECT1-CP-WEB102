@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='codepath-project1.gif' />
+<img src='/community-board/codepath-project1.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCAP
